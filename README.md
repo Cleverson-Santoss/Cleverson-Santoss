@@ -8,7 +8,7 @@
 <p>
   Olá, eu me chamo Cleverson e estou cursando Bacharel em Sistemas de Informação no Brasil
 
-  - 🌱 Sou estudante de Sistemas de Informação pela Universidade da Região de Joinville - <img align="center" alt="html5" width="15%" src="https://images02.gruposinternet.com.br/unsafe/https://www.univille.edu.br/templates/source/8/images/pages/logo_univille.png" />
+  - 🌱 Sou estudante de Engenharia de Softaware pela Universidade da Região de Joinville - <img align="center" alt="html5" width="15%" src="https://images02.gruposinternet.com.br/unsafe/https://www.univille.edu.br/templates/source/8/images/pages/logo_univille.png" />
 
   - 🔭 Atualmente estou em busca do meu primeiro estágio.
 </p>
